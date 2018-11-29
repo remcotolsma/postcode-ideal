@@ -23,3 +23,17 @@
 > Die lange adem hield het vol tot deze maand, toen Postcode.nl besloot om de iDeal-service per 31 december van dit jaar stop te zetten. Yehhpay, een achteraf-betaaldienst van Postcode.nl houdt ook op te bestaan.
 
 Source: https://www.ecommercenews.nl/postcode-ideal-stopt-ermee/
+
+## Update November 29, 2018 on Telecompaper
+
+> ### CM Payments neemt klantportfolio Postcode.nl iDEAL over
+> 
+> Payment Service Provider CM Payments neemt het klantportfolio van Postcode.nl over voor een niet nader genoemd bedrag. Dataleverancier Postcode.nl maakte eerder bekend eind 2018 te stoppen met haar diensten als betaalprovider. Klanten van Postcode.nl zijn inmiddels via e-mail geïnformeerd over de migratie van de betaaldiensten naar CM.com. 
+> 
+> Postcode.nl werd in 1999 opgericht en focust zich op het leveren van postcode-data aan webshops. Via haar software is een kwaliteitscontrole mogelijk op het aanvullen en corrigeren van adressen. In 2015 startte Postcode.nl naast hun kernactiviteiten ook payments-activiteiten om klanten te bedienen met een concurrerend iDEAL-tarief. 
+> 
+> De focus van Postcode.nl is de laatste jaren steeds verder ontwikkeld richting haar kernactiviteiten. Aanvullende diensten, zoals iDEAL, krijgen daarom in de ogen van Postcode.nl niet de aandacht die ze verdienen. Om ook in de toekomst een innovatieve dienst te blijven bieden, is ervoor gekozen dit klantportfolio over te dragen aan betaalinstelling CM.com. 
+> 
+> CM Payments, onderdeel van CM.com, nam eerder Docdata Payments over.
+
+Source: https://www.telecompaper.com/nieuws/cm-payments-neemt-klantportfolio-postcodenl-ideal-over--1270874
